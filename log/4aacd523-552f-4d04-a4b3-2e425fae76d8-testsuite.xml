@@ -1,0 +1,36 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1536656950415" stop="1536656950431">
+  <name>test_fixtures</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1536656950415" status="passed" stop="1536656950420">
+      <name>test_numbers_3_4</name>
+      <attachments>
+        <attachment source="01c0d6b7-be47-45d7-a03c-d8577aa2cfa3-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="2b20e092-3802-4dec-bf00-d8604cf0050e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3552-MainThread"/>
+        <label name="host" value="LUOPAN"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1536656950426" status="passed" stop="1536656950431">
+      <name>test_strings_a_3</name>
+      <attachments>
+        <attachment source="a28d0c3b-8a74-461c-afa4-c924de0693fd-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="d14950eb-7b13-4135-b638-099e114ccc85-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3552-MainThread"/>
+        <label name="host" value="LUOPAN"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

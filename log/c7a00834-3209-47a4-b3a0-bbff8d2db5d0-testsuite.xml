@@ -1,0 +1,28 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1536656950398" stop="1536656950405">
+  <name>test_assert3</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1536656950398" status="failed" stop="1536656950405">
+      <name>test_true</name>
+      <failure>
+        <message>AssertionError: assert not True
+ +  where True = is_prime(7)</message>
+        <stack-trace>def test_true():
+&gt;       assert not is_prime(7)
+E       assert not True
+E        +  where True = is_prime(7)
+
+test_assert3.py:22: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3552-MainThread"/>
+        <label name="host" value="LUOPAN"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

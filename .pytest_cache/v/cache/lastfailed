@@ -1,0 +1,6 @@
+{
+  "test_assert.py::test_add4": true,
+  "test_assert3.py::test_true": true,
+  "test_class.py::TestClass::()::test_two": true,
+  "test_sample.py::test_func": true
+}
